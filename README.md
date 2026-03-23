@@ -26,6 +26,12 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 
 ---
 
+- ##  Demo Video
+[Watch Demo](https://drive.google.com/file/d/1TwLsEoyXacKvDv2DwrzuXF3gimzdRkVD/view?usp=drive_link)
+
+
+---
+
 ##  Key Insights
 - Clothing category contributes the highest revenue (63%)  
 - Cash on Delivery (COD) is the most preferred payment method (44%)  
@@ -35,7 +41,7 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 ---
 
 ##  Files Included
-- `dashboard.png` – Dashboard screenshot  
+- `dashboard.png` – Dashboard screenshot
 
 ---
 
