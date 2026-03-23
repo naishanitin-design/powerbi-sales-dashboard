@@ -35,13 +35,9 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 ---
 
 ##  Files Included
-- `dashboard.pbix` – Power BI project file  
 - `dashboard.png` – Dashboard screenshot  
 
 ---
-##  Note
-This dashboard was developed using Power BI Desktop. The .pbix file can be opened to explore interactive features.
-
 
 ##  Project Highlights
 - Built interactive dashboard using Power BI  
