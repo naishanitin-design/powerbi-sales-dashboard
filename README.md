@@ -1,18 +1,18 @@
-# 📊 E-Commerce Sales Insight Dashboard
+#  E-Commerce Sales Insight Dashboard
 
-## 🔍 Overview
+##  Overview
 This project presents an interactive Power BI dashboard to analyze sales performance, customer behavior, and business trends. The dashboard provides insights to support data-driven decision-making.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI  
 - DAX  
 - Excel  
 
 ---
 
-## 📈 Key Metrics (KPIs)
+##  Key Metrics (KPIs)
 - Revenue  
 - Orders  
 - Units Sold  
@@ -21,12 +21,12 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard](dashboard.png)
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 - Clothing category contributes the highest revenue (63%)  
 - Cash on Delivery (COD) is the most preferred payment method (44%)  
 - Sales show variation across months with peak performance during certain periods  
@@ -34,13 +34,16 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 
 ---
 
-## 📂 Files Included
+##  Files Included
 - `dashboard.pbix` – Power BI project file  
 - `dashboard.png` – Dashboard screenshot  
 
 ---
+##  Note
+This dashboard was developed using Power BI Desktop. The .pbix file can be opened to explore interactive features.
 
-## 🚀 Project Highlights
+
+##  Project Highlights
 - Built interactive dashboard using Power BI  
 - Created DAX measures (SUM, DISTINCTCOUNT, DIVIDE)  
 - Designed KPI cards for business metrics  
